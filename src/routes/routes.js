@@ -11,7 +11,7 @@ const routes =[
     },
     {
         name:'AddContact',
-        path:'/add_contact',
+        path:'/add_contacts',
         component: AddContact
     }
 ];
